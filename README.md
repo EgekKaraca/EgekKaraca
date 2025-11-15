@@ -12,12 +12,6 @@ Hey I am Ege Kemal Karaca. I am currently a student in University College London
 ![](https://nirzak-streak-stats.vercel.app/?user=EgekKaraca&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EgekKaraca&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EgekKaraca&theme=great-gatsby&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EgekKaraca&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=EgekKaraca&icon=7&color=7)](https://visitcount.itsvg.in)
 
