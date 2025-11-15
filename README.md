@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey I am Ege Kemal Karaca. I am currently a student in University College London. <br> I am currently working on data analysis and prediction models and I want to develop reposistories that can teach people basics. I am currently learning reinforcement learning, 3d modelling, and Linux operating system. <br> I have fun dealing with robotics and football and like to discover about them through data science <br>
+Hey I am Ege Kemal Karaca. I am currently a student in University College London. <br> I am currently working on data analysis and prediction models and I want to develop reposistories that can teach people basics. I am currently learning reinforcement learning, 3d modelling, and Linux operating system. <br> I have fun dealing with robotics and football. I like to discover my hobbies through data science. <br>
 
 
 ## 🌐 Socials:
